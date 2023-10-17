@@ -5,7 +5,7 @@ Welcome to the enchanting world of color, innovation, and boundless artistic exp
 ----
 
 ## The Color Fusion Experience🖌️
-
+ 
 Color Fusion is an exquisite painting application for both mobile and desktop platforms. Crafted  using the Kivy framework and Python programming..
 
 ----

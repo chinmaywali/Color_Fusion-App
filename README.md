@@ -1,6 +1,6 @@
 # Color Fusion App: Unleash Your Creative Spectrum🎨
 
-Welcome to the enchanting world of color, innovation, and boundless artistic expression!🌈
+Welcome to the enchanting world of color, innovation, and boundless artistic expression!🌈 
 
 ----
 
